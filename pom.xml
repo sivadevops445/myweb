@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://35.78.173.23:9000/</sonar.host.url>
+		<sonar.host.url>http://35.78.171.15:9000/</sonar.host.url>
 
 	</properties>
 	<dependencies>
@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://35.79.221.207:8081/repository/sample-releases/</url>
+		    <url>http://18.183.193.119:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
